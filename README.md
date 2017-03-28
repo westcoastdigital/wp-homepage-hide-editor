@@ -1,0 +1,1 @@
+# wp-homepage-hide-editor
